@@ -1,0 +1,9 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.sideBar.location": "right",
+    "git.openRepositoryInParentFolders": "never",
+    "files.associations": {
+        "*.ps1": "powershell"
+    },
+    "git.suggestSmartCommit": false
+}

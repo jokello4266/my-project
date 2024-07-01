@@ -1,0 +1,11 @@
+2024-06-03 11:15:01.707 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-06-03 11:15:01.707 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-06-03 11:15:01.707 [info] Experiment 'pythonSurveyNotification' is active
+2024-06-03 11:15:01.707 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-06-03 11:15:01.707 [info] Experiment 'pythonTestAdapter' is active
+2024-06-03 11:15:01.707 [info] Python interpreter path: /bin/python3
+2024-06-03 11:15:02.905 [info] Shell integration status changed, can confirm it's working.
+2024-06-03 11:15:06.129 [info] Starting Pylance language server.
+2024-06-03 11:24:14.980 [info] CreateEnv Trigger - Workspace not found for /home/svhv1/bandname-generator.py
+2024-06-03 11:24:15.084 [info] Send text to terminal: /bin/python3 /home/svhv1/bandname-generator.py
+2024-06-03 11:48:35.889 [info] Send text to terminal: /bin/python3 /home/svhv1/vscode

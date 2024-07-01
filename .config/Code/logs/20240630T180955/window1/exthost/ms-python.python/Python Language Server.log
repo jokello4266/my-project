@@ -1,0 +1,24 @@
+2024-06-30 18:10:10.556 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-06-30 18:10:12.546 [info] [Info  - 6:10:12 PM] (10218) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-06-30 18:10:12.547 [info] [Info  - 6:10:12 PM] (10218) Server root directory: file:///home/svhv1/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-30 18:10:12.629 [info] Auto-Indent enabled
+2024-06-30 18:10:12.632 [info] [Info  - 6:10:12 PM] (10218) Starting service instance "<default>"
+2024-06-30 18:10:12.693 [info] Auto-Indent enabled
+2024-06-30 18:10:12.694 [info] [Info  - 6:10:12 PM] (10218) Setting pythonPath for service "<default>": "/bin/python3"
+2024-06-30 18:10:12.694 [info] [Info  - 6:10:12 PM] (10218) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-06-30 18:10:12.772 [info] [Info  - 6:10:12 PM] (10218) Assuming Python version 3.12.3.final.0
+2024-06-30 18:10:13.448 [info] [Info  - 6:10:13 PM] (10218) No source files found.
+2024-06-30 18:10:13.543 [info] Auto-Indent enabled
+2024-06-30 18:10:13.549 [info] [Info  - 6:10:13 PM] (10218) Setting pythonPath for service "<default>": "/bin/python3"
+2024-06-30 18:10:13.549 [info] [Info  - 6:10:13 PM] (10218) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-06-30 18:10:13.624 [info] [Info  - 6:10:13 PM] (10218) Assuming Python version 3.12.3.final.0
+2024-06-30 18:10:14.100 [info] [Info  - 6:10:14 PM] (10218) No source files found.
+2024-06-30 18:10:14.110 [info] Auto-Indent enabled
+2024-06-30 18:10:14.795 [info] [Info  - 6:10:14 PM] (10218) Background analysis(1) root directory: file:///home/svhv1/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-30 18:10:14.799 [info] [Info  - 6:10:14 PM] (10218) Background analysis(1) started
+2024-06-30 18:24:19.039 [info] Auto-Indent enabled
+2024-06-30 18:24:19.045 [info] [Info  - 6:24:19 PM] (10218) Setting pythonPath for service "<default>": "/bin/python3"
+2024-06-30 18:24:19.045 [info] [Info  - 6:24:19 PM] (10218) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-06-30 18:24:19.195 [info] [Info  - 6:24:19 PM] (10218) Assuming Python version 3.12.3.final.0
+2024-06-30 18:24:20.526 [info] [Info  - 6:24:20 PM] (10218) No source files found.
+2024-06-30 18:24:20.543 [info] Auto-Indent enabled

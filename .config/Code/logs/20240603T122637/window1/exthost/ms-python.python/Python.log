@@ -1,0 +1,37 @@
+2024-06-03 12:26:42.794 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-06-03 12:26:42.794 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-06-03 12:26:42.794 [info] Experiment 'pythonSurveyNotification' is active
+2024-06-03 12:26:42.794 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-06-03 12:26:42.794 [info] Experiment 'pythonTestAdapter' is active
+2024-06-03 12:26:42.794 [info] Python interpreter path: /bin/python3
+2024-06-03 12:26:48.421 [info] Starting Pylance language server.
+2024-06-03 12:39:19.425 [info] CreateEnv Trigger - Workspace not found for /home/svhv1/variable.py
+2024-06-03 12:39:19.531 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 12:41:12.860 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 12:41:41.436 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 12:43:40.697 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 12:50:56.916 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 12:52:14.091 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 12:52:17.029 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 12:53:07.579 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 12:53:10.075 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 12:53:29.041 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 12:55:07.666 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:02:13.020 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:02:23.002 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:03:32.520 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:05:22.004 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:06:39.564 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:07:30.799 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:07:32.965 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:07:41.179 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:07:57.453 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:08:12.334 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:23:50.580 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:26:16.908 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:27:53.490 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:29:06.695 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:32:19.821 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:32:33.229 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 13:34:02.085 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 15:53:02.886 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py

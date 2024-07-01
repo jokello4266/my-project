@@ -1,0 +1,7 @@
+2024-06-30 18:10:02.719 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-06-30 18:10:02.719 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-06-30 18:10:02.719 [info] Experiment 'pythonSurveyNotification' is active
+2024-06-30 18:10:02.719 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-06-30 18:10:02.719 [info] Experiment 'pythonTestAdapter' is active
+2024-06-30 18:10:03.496 [info] Python interpreter path: /bin/python3
+2024-06-30 18:10:12.592 [info] Starting Pylance language server.

@@ -1,0 +1,76 @@
+2024-06-30 17:32:41.893 [info] Getting Manifest... ms-python.python
+2024-06-30 17:32:41.940 [info] Getting Manifest... ms-python.vscode-pylance
+2024-06-30 17:32:41.954 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2024-06-30 17:32:42.248 [info] Installing extension: ms-python.vscode-pylance
+2024-06-30 17:32:42.293 [info] Installing extension: ms-python.python
+2024-06-30 17:32:42.358 [info] Installing extension: ms-vscode-remote.remote-containers
+2024-06-30 17:32:43.843 [info] Getting Manifest... ms-python.python
+2024-06-30 17:32:45.188 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-06-30 17:32:54.053 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Duration: 6632ms.
+2024-06-30 17:32:54.089 [info] Extension signature verification result for ms-vscode-remote.remote-containers: Success. Duration: 7282ms.
+2024-06-30 17:32:54.158 [info] Extension signature verification result for ms-python.python: Success. Duration: 6942ms.
+2024-06-30 17:32:55.057 [info] Extracted extension to file:///home/svhv1/.vscode/extensions/ms-vscode-remote.remote-containers-0.369.0: ms-vscode-remote.remote-containers
+2024-06-30 17:32:55.075 [info] Renamed to /home/svhv1/.vscode/extensions/ms-vscode-remote.remote-containers-0.369.0
+2024-06-30 17:32:55.092 [info] Extracting extension completed. ms-vscode-remote.remote-containers
+2024-06-30 17:32:55.132 [info] Extension installed successfully: ms-vscode-remote.remote-containers
+2024-06-30 17:32:55.184 [info] Marked extension as uninstalled ms-vscode-remote.remote-containers-0.362.0
+2024-06-30 17:32:55.194 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/svhv1/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/svhv1/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-06-30 17:32:59.890 [info] Extracted extension to file:///home/svhv1/.vscode/extensions/ms-python.python-2024.8.1: ms-python.python
+2024-06-30 17:32:59.913 [info] Renamed to /home/svhv1/.vscode/extensions/ms-python.python-2024.8.1
+2024-06-30 17:32:59.920 [info] Extracting extension completed. ms-python.python
+2024-06-30 17:32:59.949 [info] Extension installed successfully: ms-python.python
+2024-06-30 17:32:59.950 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-06-30 17:32:59.976 [info] Marked extension as uninstalled ms-python.python-2024.6.0
+2024-06-30 17:33:00.009 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/svhv1/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/svhv1/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-06-30 17:33:05.618 [info] Extracted extension to file:///home/svhv1/.vscode/extensions/ms-python.vscode-pylance-2024.6.1: ms-python.vscode-pylance
+2024-06-30 17:33:05.632 [info] Renamed to /home/svhv1/.vscode/extensions/ms-python.vscode-pylance-2024.6.1
+2024-06-30 17:33:05.651 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-06-30 17:33:05.686 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-06-30 17:33:05.705 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.5.1
+2024-06-30 17:33:05.750 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/svhv1/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/svhv1/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-06-30 17:42:44.603 [info] Getting Manifest... ms-vscode.powershell
+2024-06-30 17:42:44.632 [info] Installing extension: ms-vscode.powershell
+2024-06-30 17:42:49.321 [info] Extension signature verification result for ms-vscode.powershell: Success. Duration: 1078ms.
+2024-06-30 17:42:52.786 [info] Extracted extension to file:///home/svhv1/.vscode/extensions/ms-vscode.powershell-2024.2.2: ms-vscode.powershell
+2024-06-30 17:42:52.815 [info] Renamed to /home/svhv1/.vscode/extensions/ms-vscode.powershell-2024.2.2
+2024-06-30 17:42:52.820 [info] Extracting extension completed. ms-vscode.powershell
+2024-06-30 17:42:52.861 [info] Extension installed successfully: ms-vscode.powershell
+2024-06-30 17:42:52.934 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/svhv1/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/svhv1/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-06-30 17:51:22.141 [info] Getting Manifest... bvanderhorn.run-selected-powershell-script
+2024-06-30 17:51:22.203 [info] Installing extension: bvanderhorn.run-selected-powershell-script
+2024-06-30 17:51:25.843 [info] Extension signature verification result for bvanderhorn.run-selected-powershell-script: Success. Duration: 1453ms.
+2024-06-30 17:51:25.906 [info] Extracted extension to file:///home/svhv1/.vscode/extensions/bvanderhorn.run-selected-powershell-script-1.0.0: bvanderhorn.run-selected-powershell-script
+2024-06-30 17:51:25.915 [info] Renamed to /home/svhv1/.vscode/extensions/bvanderhorn.run-selected-powershell-script-1.0.0
+2024-06-30 17:51:25.917 [info] Extracting extension completed. bvanderhorn.run-selected-powershell-script
+2024-06-30 17:51:25.939 [info] Extension installed successfully: bvanderhorn.run-selected-powershell-script
+2024-06-30 17:51:26.013 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/svhv1/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/svhv1/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)

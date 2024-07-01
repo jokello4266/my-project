@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/svhv1/Downloads/import%20re.py" added="2024-05-17T05:54:06.934110Z" modified="2024-05-17T05:54:06.934114Z" visited="2024-05-17T05:54:06.934111Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-17T05:54:06.934112Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/svhv1/Downloads/input.py" added="2024-05-17T06:07:55.888387Z" modified="2024-05-17T06:07:55.888394Z" visited="2024-05-17T06:07:55.888389Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-17T06:07:55.888391Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/svhv1" added="2024-05-17T06:15:34.502676Z" modified="2024-06-03T19:08:20.484020Z" visited="2024-05-17T06:15:34.502677Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-03T19:08:20.484019Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/svhv1/jokello4266/test.py" added="2024-05-17T06:17:20.370118Z" modified="2024-05-17T06:22:47.325465Z" visited="2024-05-17T06:17:20.370118Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-17T06:22:47.325463Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/svhv1/variable.py" added="2024-05-23T19:07:47.036509Z" modified="2024-06-03T19:36:07.265364Z" visited="2024-05-23T19:07:47.036511Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-03T19:36:07.265363Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/svhv1/variablepractice.py" added="2024-05-23T19:32:36.441560Z" modified="2024-05-23T19:32:36.441571Z" visited="2024-05-23T19:32:36.441562Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-23T19:32:36.441566Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/svhv1/bandname-generator.py" added="2024-06-03T18:09:43.437541Z" modified="2024-06-03T19:35:30.724852Z" visited="2024-06-03T18:09:43.437542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-06-03T19:35:30.724850Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/svhv1/test.ps1" added="2024-07-01T00:43:25.904150Z" modified="2024-07-01T01:10:19.527286Z" visited="2024-07-01T00:43:25.904151Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-powershell"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-07-01T01:10:19.527285Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/svhv1/get_system_info.ps1" added="2024-07-01T01:16:20.361603Z" modified="2024-07-01T01:16:20.361606Z" visited="2024-07-01T01:16:20.361604Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-powershell"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-07-01T01:16:20.361605Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

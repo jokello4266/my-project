@@ -1,0 +1,10 @@
+file:///home/svhv1/variable.py {"mtime":1717442278081,"ctime":1717435894683,"size":157,"etag":"3cg93plr152","orphaned":false,"typeId":""}
+name="Walter"
+print(name)
+
+name="Angela"
+print(name)
+
+name=input("what is your name ?")
+num_char = len(name)
+print("Your name has" + num_char + "characters") 

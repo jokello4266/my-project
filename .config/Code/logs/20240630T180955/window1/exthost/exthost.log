@@ -1,0 +1,24 @@
+2024-06-30 18:09:59.651 [info] Extension host with pid 10107 started
+2024-06-30 18:10:00.478 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-30 18:10:00.510 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-06-30 18:10:02.655 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-30 18:10:03.508 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-30 18:10:03.690 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-30 18:10:04.959 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-06-30 18:10:05.063 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-06-30 18:10:07.714 [info] Eager extensions activated
+2024-06-30 18:10:08.108 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-30 18:10:08.117 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-30 18:10:08.161 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2024-06-30 18:10:08.688 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-06-30 18:10:10.322 [error] Error: ENOENT: no such file or directory, open '/home/svhv1/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-06-30 18:10:19.800 [info] ExtensionService#_doActivateExtension ms-vscode.powershell, startup: false, activationEvent: 'onLanguage:powershell'
+2024-06-30 18:18:05.989 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-06-30 18:21:11.514 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-30 18:21:11.579 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-30 18:24:29.873 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2024-06-30 18:24:31.979 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2024-06-30 18:25:23.965 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2024-06-30 18:27:17.848 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2024-06-30 18:28:49.502 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
+2024-06-30 18:29:48.639 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001

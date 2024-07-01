@@ -1,0 +1,148 @@
+2024-06-03 11:58:50.304 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-06-03 11:58:50.304 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-06-03 11:58:50.304 [info] Experiment 'pythonSurveyNotification' is active
+2024-06-03 11:58:50.304 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-06-03 11:58:50.304 [info] Experiment 'pythonTestAdapter' is active
+2024-06-03 11:58:50.487 [info] Python interpreter path: /bin/python3
+2024-06-03 11:58:56.238 [info] Starting Pylance language server.
+2024-06-03 12:01:59.913 [info] CreateEnv Trigger - Workspace not found for /home/svhv1/variable.py
+2024-06-03 12:02:00.018 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 12:08:44.314 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-06-03 12:08:44.314 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-06-03 12:08:44.314 [info] Experiment 'pythonSurveyNotification' is active
+2024-06-03 12:08:44.314 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-06-03 12:08:44.314 [info] Experiment 'pythonTestAdapter' is active
+2024-06-03 12:08:44.314 [info] Default formatter is set to null for workspace /home/svhv1
+2024-06-03 12:08:44.341 [info] > hatch env show --json
+2024-06-03 12:08:44.341 [info] cwd: .
+2024-06-03 12:08:44.350 [info] Python interpreter path: /bin/python3
+2024-06-03 12:08:44.409 [info] > /bin/python3 -I ./.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-06-03 12:08:44.590 [info] > pyenv which python
+2024-06-03 12:08:44.590 [info] cwd: .
+2024-06-03 12:08:46.307 [info] Starting Pylance language server.
+2024-06-03 12:10:26.484 [info] Discover tests for workspace name: svhv1 - uri: /home/svhv1/variable.py
+2024-06-03 12:10:29.667 [info] Send text to terminal: /bin/python3 /home/svhv1/variable.py
+2024-06-03 12:10:45.678 [info] Selected workspace /home/svhv1 for creating virtual environment.
+2024-06-03 12:10:45.736 [info] > conda info --json
+2024-06-03 12:10:45.781 [info] Found: /bin/python3 --> /bin/python3.12
+2024-06-03 12:10:45.782 [info] Found: /bin/python3.12 --> /bin/python3.12
+2024-06-03 12:10:45.818 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2024-06-03 12:10:45.819 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2024-06-03 12:10:45.852 [info] > /usr/bin/python3 -I ./.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-06-03 12:10:55.767 [info] Selected interpreter /bin/python3 for creating virtual environment.
+2024-06-03 12:11:11.104 [info] Running Env creation script:  [
+  '/bin/python3',
+  '/home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/create_venv.py',
+  '--git-ignore',
+  '--requirements',
+  '/home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/requirements.txt',
+  '--requirements',
+  '/home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt'
+]
+2024-06-03 12:11:11.108 [info] > /bin/python3 ./.vscode/extensions/ms-python.python-2024.6.0/python_files/create_venv.py --git-ignore --requirements ./.vscode/extensions/ms-python.python-2024.6.0/requirements.txt --requirements ./.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt
+2024-06-03 12:11:11.108 [info] cwd: .
+2024-06-03 12:11:11.228 [info] Running: /bin/python3 -m venv --without-pip .venv
+2024-06-03 12:11:11.229 [info] 
+2024-06-03 12:11:11.302 [info] CREATED_VENV:/home/svhv1/.venv/bin/python
+2024-06-03 12:11:11.305 [info] 
+Creating: /home/svhv1/.venv/.gitignore
+CREATE_VENV.DOWNLOADING_PIP
+2024-06-03 12:11:12.317 [info] CREATE_VENV.INSTALLING_PIP
+2024-06-03 12:11:12.320 [info] 
+Running: /home/svhv1/.venv/bin/python /home/svhv1/.venv/pip.pyz install pip
+2024-06-03 12:11:14.610 [info] Collecting pip
+2024-06-03 12:11:14.751 [info]   Downloading pip-24.0-py3-none-any.whl.metadata (3.6 kB)
+2024-06-03 12:11:14.789 [info] Downloading pip-24.0-py3-none-any.whl (2.1 MB)
+2024-06-03 12:11:15.538 [info]    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 3.0 MB/s eta 0:00:00
+2024-06-03 12:11:15.564 [info] Installing collected packages: pip
+2024-06-03 12:11:16.886 [info] Successfully installed pip-24.0
+2024-06-03 12:11:17.214 [info] VENV_INSTALLING_REQUIREMENTS: ['/home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/requirements.txt', '/home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt']
+2024-06-03 12:11:17.214 [info] 
+VENV_INSTALLING_REQUIREMENTS: /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/requirements.txt
+Running: /home/svhv1/.venv/bin/python -m pip install -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/requirements.txt
+2024-06-03 12:11:17.793 [info] Collecting importlib-metadata==7.1.0 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/requirements.txt (line 7))
+2024-06-03 12:11:17.898 [info]   Downloading importlib_metadata-7.1.0-py3-none-any.whl (24 kB)
+2024-06-03 12:11:18.008 [info] Collecting microvenv==2023.5.post1 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/requirements.txt (line 11))
+2024-06-03 12:11:18.032 [info]   Downloading microvenv-2023.5.post1-py3-none-any.whl (8.2 kB)
+2024-06-03 12:11:18.095 [info] Collecting packaging==24.0 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/requirements.txt (line 15))
+2024-06-03 12:11:18.114 [info]   Downloading packaging-24.0-py3-none-any.whl (53 kB)
+2024-06-03 12:11:18.135 [info]      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 53.5/53.5 kB 2.4 MB/s eta 0:00:00
+2024-06-03 12:11:18.136 [info] 
+2024-06-03 12:11:18.184 [info] Collecting tomli==2.0.1 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/requirements.txt (line 19))
+2024-06-03 12:11:18.199 [info]   Downloading tomli-2.0.1-py3-none-any.whl (12 kB)
+2024-06-03 12:11:18.252 [info] Collecting typing-extensions==4.11.0 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/requirements.txt (line 23))
+2024-06-03 12:11:18.268 [info]   Downloading typing_extensions-4.11.0-py3-none-any.whl (34 kB)
+2024-06-03 12:11:18.328 [info] Collecting zipp==3.15.0 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/requirements.txt (line 27))
+2024-06-03 12:11:18.343 [info]   Downloading zipp-3.15.0-py3-none-any.whl (6.8 kB)
+2024-06-03 12:11:18.430 [info] Installing collected packages: zipp, typing-extensions, tomli, packaging, microvenv, importlib-metadata
+2024-06-03 12:11:18.583 [info] Successfully installed importlib-metadata-7.1.0 microvenv-2023.5.post1 packaging-24.0 tomli-2.0.1 typing-extensions-4.11.0 zipp-3.15.0
+2024-06-03 12:11:18.713 [info] VENV_INSTALLING_REQUIREMENTS: /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt
+2024-06-03 12:11:18.714 [info] 
+2024-06-03 12:11:18.714 [info] Running: /home/svhv1/.venv/bin/python -m pip install -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt
+2024-06-03 12:11:18.715 [info] 
+2024-06-03 12:11:19.241 [info] Collecting attrs==23.1.0 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 7))
+2024-06-03 12:11:19.335 [info]   Downloading attrs-23.1.0-py3-none-any.whl (61 kB)
+2024-06-03 12:11:19.389 [info]      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 61.2/61.2 kB 1.0 MB/s eta 0:00:00
+2024-06-03 12:11:19.390 [info] 
+2024-06-03 12:11:19.464 [info] Collecting cattrs==23.1.2 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 13))
+2024-06-03 12:11:19.496 [info]   Downloading cattrs-23.1.2-py3-none-any.whl (50 kB)
+2024-06-03 12:11:19.529 [info]      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 50.8/50.8 kB 1.4 MB/s eta 0:00:00
+2024-06-03 12:11:19.529 [info] 
+2024-06-03 12:11:19.566 [info] Collecting docstring-to-markdown==0.12 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 19))
+2024-06-03 12:11:19.582 [info]   Downloading docstring_to_markdown-0.12-py3-none-any.whl (18 kB)
+2024-06-03 12:11:19.650 [info] Collecting exceptiongroup==1.1.3 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 23))
+2024-06-03 12:11:19.667 [info]   Downloading exceptiongroup-1.1.3-py3-none-any.whl (14 kB)
+2024-06-03 12:11:19.745 [info] Collecting importlib-metadata==6.8.0 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 27))
+2024-06-03 12:11:19.761 [info]   Downloading importlib_metadata-6.8.0-py3-none-any.whl (22 kB)
+2024-06-03 12:11:19.817 [info] Collecting jedi==0.19.1 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 31))
+2024-06-03 12:11:19.832 [info]   Downloading jedi-0.19.1-py2.py3-none-any.whl (1.6 MB)
+2024-06-03 12:11:20.289 [info]      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.6/1.6 MB 3.5 MB/s eta 0:00:00
+2024-06-03 12:11:20.289 [info] 
+2024-06-03 12:11:20.374 [info] Collecting jedi-language-server==0.41.1 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 35))
+2024-06-03 12:11:20.396 [info]   Downloading jedi_language_server-0.41.1-py3-none-any.whl (27 kB)
+2024-06-03 12:11:20.452 [info] Collecting lsprotocol==2023.0.0b1 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 39))
+2024-06-03 12:11:20.477 [info]   Downloading lsprotocol-2023.0.0b1-py3-none-any.whl (70 kB)
+2024-06-03 12:11:20.506 [info]      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 70.6/70.6 kB 2.3 MB/s eta 0:00:00
+2024-06-03 12:11:20.507 [info] 
+2024-06-03 12:11:20.547 [info] Collecting parso==0.8.3 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 45))
+2024-06-03 12:11:20.566 [info]   Downloading parso-0.8.3-py2.py3-none-any.whl (100 kB)
+2024-06-03 12:11:20.602 [info]      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100.8/100.8 kB 2.7 MB/s eta 0:00:00
+2024-06-03 12:11:20.603 [info] 
+2024-06-03 12:11:20.646 [info] Collecting pygls==1.0.2 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 49))
+2024-06-03 12:11:20.668 [info]   Downloading pygls-1.0.2-py3-none-any.whl (38 kB)
+2024-06-03 12:11:20.732 [info] Collecting typeguard==3.0.2 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 55))
+2024-06-03 12:11:20.755 [info]   Downloading typeguard-3.0.2-py3-none-any.whl (30 kB)
+2024-06-03 12:11:20.807 [info] Collecting typing-extensions==4.8.0 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 59))
+2024-06-03 12:11:20.830 [info]   Downloading typing_extensions-4.8.0-py3-none-any.whl (31 kB)
+2024-06-03 12:11:20.885 [info] Collecting zipp==3.17.0 (from -r /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/jedilsp_requirements/requirements.txt (line 66))
+2024-06-03 12:11:20.905 [info]   Downloading zipp-3.17.0-py3-none-any.whl (7.4 kB)
+2024-06-03 12:11:21.215 [info] Installing collected packages: zipp, typing-extensions, typeguard, parso, exceptiongroup, docstring-to-markdown, attrs, jedi, importlib-metadata, cattrs, lsprotocol, pygls, jedi-language-server
+2024-06-03 12:11:21.216 [info]   Attempting uninstall: zipp
+2024-06-03 12:11:21.219 [info]     Found existing installation: zipp 3.15.0
+2024-06-03 12:11:21.221 [info]     Uninstalling zipp-3.15.0:
+2024-06-03 12:11:21.224 [info]       Successfully uninstalled zipp-3.15.0
+2024-06-03 12:11:21.250 [info]   Attempting uninstall: typing-extensions
+2024-06-03 12:11:21.253 [info]     Found existing installation: typing_extensions 4.11.0
+2024-06-03 12:11:21.257 [info]     Uninstalling typing_extensions-4.11.0:
+2024-06-03 12:11:21.263 [info]       Successfully uninstalled typing_extensions-4.11.0
+2024-06-03 12:11:21.950 [info]   Attempting uninstall: importlib-metadata
+2024-06-03 12:11:21.953 [info]     Found existing installation: importlib_metadata 7.1.0
+2024-06-03 12:11:21.958 [info]     Uninstalling importlib_metadata-7.1.0:
+2024-06-03 12:11:21.960 [info]       Successfully uninstalled importlib_metadata-7.1.0
+2024-06-03 12:11:22.211 [info] Successfully installed attrs-23.1.0 cattrs-23.1.2 docstring-to-markdown-0.12 exceptiongroup-1.1.3 importlib-metadata-6.8.0 jedi-0.19.1 jedi-language-server-0.41.1 lsprotocol-2023.0.0b1 parso-0.8.3 pygls-1.0.2 typeguard-3.0.2 typing-extensions-4.8.0 zipp-3.17.0
+2024-06-03 12:11:22.363 [info] CREATE_VENV.PIP_INSTALLED_REQUIREMENTS
+2024-06-03 12:11:22.364 [info] 
+2024-06-03 12:11:22.448 [info] > ./.venv/bin/python -I ./.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-06-03 12:11:22.503 [info] Python interpreter path: ./.venv/bin/python
+2024-06-03 12:11:22.503 [info] Discover tests for workspace name: svhv1 - uri: /home/svhv1
+2024-06-03 12:11:22.565 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.vscode/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-06-03 12:11:22.565 [info] shell: bash
+2024-06-03 12:11:22.704 [info] > /bin/python3 ./.vscode/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-06-03 12:11:22.704 [info] shell: bash
+2024-06-03 12:11:22.858 [info] Setting environment variable VIRTUAL_ENV in collection to /home/svhv1/.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-06-03 12:11:22.861 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-06-03 12:11:22.862 [info] Prepending environment variable PS1 in collection with (.venv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-06-03 12:11:22.862 [info] Prepending environment variable PATH in collection with /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash:/home/svhv1/.venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-06-03 12:11:22.865 [info] Send text to terminal: /bin/python3 /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/svhv1/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+2024-06-03 12:17:58.359 [info] Discover tests for workspace name: svhv1 - uri: /home/svhv1/variable.py
+2024-06-03 12:18:33.005 [info] Discover tests for workspace name: svhv1 - uri: /home/svhv1/.vscode/settings.json
