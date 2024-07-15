@@ -49,9 +49,4 @@ def main():
         elif option == "3":
             delete_task(list)
         elif option =="4":
-            print("Exiting the program")
-        else: 
-             print("invalid option, choose again")
-                
-if __name__ == "__main__":
-    main()
+            break
